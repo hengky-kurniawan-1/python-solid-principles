@@ -1,0 +1,14 @@
+{
+  "name": "python-solid-principles-slides",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "^0.25.0",
+    "vue": "^3.4.0"
+  }
+}
